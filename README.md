@@ -100,4 +100,4 @@ Veja `.env.example` para a lista completa de variáveis necessárias.
 
 **Cleverson Moura**  
 Estagiário em Data Science — SPR
-[linkedin.com/in/seu-perfil](https://www.linkedin.com/in/cleversonmandrade/)
+[linkedin.com/in/meu-perfil](https://www.linkedin.com/in/cleversonmandrade/)
