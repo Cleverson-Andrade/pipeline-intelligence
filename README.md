@@ -85,8 +85,6 @@ Pipeline de dados end-to-end integrando três fontes distintas em uma única int
 
 ---
 
-## Como Executar Localmente
-
 ---
 
 ## Variáveis de Ambiente
