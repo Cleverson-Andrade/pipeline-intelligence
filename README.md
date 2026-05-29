@@ -85,8 +85,6 @@ Pipeline de dados end-to-end integrando três fontes distintas em uma única int
 
 ---
 
----
-
 ## Variáveis de Ambiente
 
 Veja `.env.example` para a lista completa de variáveis necessárias.
