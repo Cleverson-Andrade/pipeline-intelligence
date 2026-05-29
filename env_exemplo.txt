@@ -1,0 +1,13 @@
+# ──────────────────────────────────────────
+# Conexão com banco de dados (PostgreSQL)
+# ──────────────────────────────────────────
+DB_HOST=seu-host.cloud.example.org
+DB_PORT ****
+DB_NAME=nome_do_banco
+DB_USER=usuario_do_banco
+DB_PASSWORD=sua_senha_aqui
+
+# ──────────────────────────────────────────
+# API de Planilhas Externas
+# ──────────────────────────────────────────
+SHEET_API_TOKEN=seu_token_da_api_aqui
